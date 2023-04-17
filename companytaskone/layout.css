@@ -1,0 +1,30 @@
+.it{
+    background-image: url("https://frontlinesmedia.in/wp-content/uploads/2021/04/1-5-750x375-1.jpg");
+    background-size: cover;
+    height: 300px;
+}
+.itc{
+    margin-left: 350px;
+    margin-top: 50px;
+    color:darkred;
+}
+input{
+    width: 600px;
+}
+.ita{
+    margin-top: 50px;
+}
+.itb{
+    border:1px solid darkred;
+    color:darkred;
+}
+.butn{
+    background-color: darkred;
+    color:white;
+    width: 80px;
+    border-radius: 5px;
+}
+.live{
+    border:1px solid darkred;
+    margin-top: 50px;
+}
